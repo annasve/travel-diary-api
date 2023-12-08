@@ -42,7 +42,7 @@
       "countryOverview": {
         "capital": "Dublin",
         "population": "5.1 million",
-        "officialLanguages": "Irish and English",
+        "officialLanguage": "Irish and English",
         "currency": "Euro (EUR)"
       },
       "culturalHighlights": "Ireland is famous for its music, dance (Riverdance), and folklore. The Irish pub culture is a significant part of social life.",
@@ -113,7 +113,7 @@
       "countryOverview": {
         "capital": "Ottawa",
         "population": "39 million",
-        "officialLanguages": "English and French",
+        "officialLanguage": "English and French",
         "currency": "Canadian Dollar (CAD)"
       },
       "culturalHighlights": "Canada celebrates its indigenous heritage, multiculturalism, and is known for its politeness and friendliness.",
